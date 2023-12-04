@@ -1,0 +1,31 @@
+C:\Users\ghmat\OneDrive\Documentos\DESAFIO VAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\bin\Debug\net6.0\Mttechne.Backend.Junior.Data.deps.json
+C:\Users\ghmat\OneDrive\Documentos\DESAFIO VAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\bin\Debug\net6.0\Mttechne.Backend.Junior.Data.runtimeconfig.json
+C:\Users\ghmat\OneDrive\Documentos\DESAFIO VAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\bin\Debug\net6.0\Mttechne.Backend.Junior.Data.dll
+C:\Users\ghmat\OneDrive\Documentos\DESAFIO VAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\bin\Debug\net6.0\Mttechne.Backend.Junior.Data.pdb
+C:\Users\ghmat\OneDrive\Documentos\DESAFIO VAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\bin\Debug\net6.0\Mttechne.Backend.Junior.Services.dll
+C:\Users\ghmat\OneDrive\Documentos\DESAFIO VAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\bin\Debug\net6.0\Mttechne.Backend.Junior.Services.pdb
+C:\Users\ghmat\OneDrive\Documentos\DESAFIO VAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\Mttechne.Backend.Junior.Data.csproj.AssemblyReference.cache
+C:\Users\ghmat\OneDrive\Documentos\DESAFIO VAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\Mttechne.Backend.Junior.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghmat\OneDrive\Documentos\DESAFIO VAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\Mttechne.Backend.Junior.Data.AssemblyInfoInputs.cache
+C:\Users\ghmat\OneDrive\Documentos\DESAFIO VAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\Mttechne.Backend.Junior.Data.AssemblyInfo.cs
+C:\Users\ghmat\OneDrive\Documentos\DESAFIO VAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\Mttechne.Backend.Junior.Data.csproj.CoreCompileInputs.cache
+C:\Users\ghmat\OneDrive\Documentos\DESAFIO VAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\Mttechne.Backend.Junior.Data.csproj.CopyComplete
+C:\Users\ghmat\OneDrive\Documentos\DESAFIO VAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\Mttechne.Backend.Junior.Data.dll
+C:\Users\ghmat\OneDrive\Documentos\DESAFIO VAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\refint\Mttechne.Backend.Junior.Data.dll
+C:\Users\ghmat\OneDrive\Documentos\DESAFIO VAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\Mttechne.Backend.Junior.Data.pdb
+C:\Users\ghmat\OneDrive\Documentos\DESAFIO VAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\Mttechne.Backend.Junior.Data.genruntimeconfig.cache
+C:\Users\ghmat\OneDrive\Documentos\DESAFIO VAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\ref\Mttechne.Backend.Junior.Data.dll
+C:\Users\ghmat\OneDrive\Documentos\DESAFIOVAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\bin\Debug\net6.0\Mttechne.Backend.Junior.Data.deps.json
+C:\Users\ghmat\OneDrive\Documentos\DESAFIOVAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\bin\Debug\net6.0\Mttechne.Backend.Junior.Data.runtimeconfig.json
+C:\Users\ghmat\OneDrive\Documentos\DESAFIOVAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\bin\Debug\net6.0\Mttechne.Backend.Junior.Data.dll
+C:\Users\ghmat\OneDrive\Documentos\DESAFIOVAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\bin\Debug\net6.0\Mttechne.Backend.Junior.Data.pdb
+C:\Users\ghmat\OneDrive\Documentos\DESAFIOVAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\Mttechne.Backend.Junior.Data.csproj.AssemblyReference.cache
+C:\Users\ghmat\OneDrive\Documentos\DESAFIOVAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\Mttechne.Backend.Junior.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ghmat\OneDrive\Documentos\DESAFIOVAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\Mttechne.Backend.Junior.Data.AssemblyInfoInputs.cache
+C:\Users\ghmat\OneDrive\Documentos\DESAFIOVAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\Mttechne.Backend.Junior.Data.AssemblyInfo.cs
+C:\Users\ghmat\OneDrive\Documentos\DESAFIOVAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\Mttechne.Backend.Junior.Data.csproj.CoreCompileInputs.cache
+C:\Users\ghmat\OneDrive\Documentos\DESAFIOVAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\Mttechne.Backend.Junior.Data.dll
+C:\Users\ghmat\OneDrive\Documentos\DESAFIOVAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\refint\Mttechne.Backend.Junior.Data.dll
+C:\Users\ghmat\OneDrive\Documentos\DESAFIOVAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\Mttechne.Backend.Junior.Data.pdb
+C:\Users\ghmat\OneDrive\Documentos\DESAFIOVAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\Mttechne.Backend.Junior.Data.genruntimeconfig.cache
+C:\Users\ghmat\OneDrive\Documentos\DESAFIOVAGA\Mttechne.Backend.Junior\Mttechne.Backend.Junior.Data\obj\Debug\net6.0\ref\Mttechne.Backend.Junior.Data.dll
